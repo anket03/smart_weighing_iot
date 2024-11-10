@@ -4,7 +4,7 @@ b.Register Certificates:
 c.Define MQTT Topics:
 
 # Step 2: Configure AWS IoT Core for Data Routing
-  a.Create IoT Rules:
+  a."Create IoT Rules":
   b.Testing MQTT Topics:
     Go to Test > MQTT test client and subscribe to your topic (e.g., myiotdevice/telemetry) to monitor incoming data.
 
